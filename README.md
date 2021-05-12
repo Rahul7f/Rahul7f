@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul7f" alt="rahul7f" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rahul7f" target="blank"><img src="https://img.shields.io/twitter/follow/rahul7f?logo=twitter&style=for-the-badge" alt="rahul7f" /></a> </p>
+
 
 - 🔭 I’m currently working on **Covihelp**
 
 - 🌱 I’m currently learning **react.js**
+
+- 👯 I’m looking to collaborate on **Covihelp**
 
 - 👨‍💻 All of my projects are available at [https://rahul7f.github.io/Rahul/](https://rahul7f.github.io/Rahul/)
 
@@ -21,17 +23,21 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rahul00/](https://www.linkedin.com/in/rahul00/)
 
-- ⚡ Fun fact **I think my code is only works on my machine!**
+- ⚡ Fun fact **I think my code It works on my machine!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahul7f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="rahul7f" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul00/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14077964/rahul-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14077964/rahul-singh" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rsin_2105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rsin_2105/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/rahul_7f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rahul_7f" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rahul_7f/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rahul_7f/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/Rahul#6076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Rahul#6076" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul00/" target="blank"><img
+            src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14077964/rahul-singh" target="blank"><img
+            src="https://img.icons8.com/color/48/000000/stackoverflow.png" /></a>
+    <a href="https://instagram.com/https://www.instagram.com/rsin_2105/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="https://www.hackerrank.com/https://www.hackerrank.com/rahul_7f" target="blank"><img
+            src="https://img.icons8.com/windows/48/000000/hackerrank.png" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rahul_7f/profile"
+        target="blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" /></a>
+    <a href="https://discord.gg/Rahul#6076" target="blank"><img
+            src="https://img.icons8.com/color/48/000000/discord-logo.png" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,3 +48,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul7f&show_icons=true&locale=en" alt="rahul7f" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul7f&" alt="rahul7f" /></p>
+
