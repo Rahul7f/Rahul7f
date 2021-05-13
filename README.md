@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rahul00/](https://www.linkedin.com/in/rahul00/)
 
-- ⚡ Fun fact **I think my code It works on my machine!**
+- ⚡ Fun fact **I think my code is only works on my machine!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
