@@ -27,14 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul00/" target="blank"><img
+    <a href="https://www.linkedin.com/in/rahul00/" target="blank"><img
             src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14077964/rahul-singh" target="blank"><img
+    <a href="https://stackoverflow.com/users/14077964/rahul-singh" target="blank"><img
             src="https://img.icons8.com/color/48/000000/stackoverflow.png" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/rsin_2105/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/rahul_7f" target="blank"><img
+    <a href="https://www.instagram.com/rsin_2105/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="https://www.hackerrank.com/rahul_7f" target="blank"><img
             src="https://img.icons8.com/windows/48/000000/hackerrank.png" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rahul_7f/profile"
+    <a href="https://auth.geeksforgeeks.org/user/rahul_7f/profile"
         target="blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" /></a>
     <a href="https://discord.gg/Rahul#6076" target="blank"><img
             src="https://img.icons8.com/color/48/000000/discord-logo.png" /></a>
