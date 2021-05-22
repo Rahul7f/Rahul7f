@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on  Covihelp
+- 🔭 I’m currently working on  web project
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on Covihelp
+- 👯 I’m looking to collaborate on update soon
 
 - 👨‍💻 All of my projects are available at [https://rahul7f.github.io/Rahul/](https://rahul7f.github.io/Rahul/)
 
