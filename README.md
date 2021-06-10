@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer, ML Engineer 🤖  or beginner level UI/UX Designer) depending on what the project requires. I love exploring new tech stack computer and leveraging them to build cool stuffs.</h3>
+<h3 align="center">I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer, or beginner level UI/UX Designer) depending on what the project requires. I love exploring new tech stack computer and leveraging them to build cool stuffs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul7f&label=Profile%20views&color=0e75b6&style=flat" alt="rahul7f" /> </p>
 
