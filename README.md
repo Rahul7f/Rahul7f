@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **rahu.singhl54321@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rahul00/](https://www.linkedin.com/in/rahul00/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/rahul00/)
 
 - ⚡ Fun fact **I think my code is only works on my machine!**
 
