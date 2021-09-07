@@ -7,15 +7,15 @@
 
 
 
-- 🔭 I’m currently working on  web project
+<!-- - 🔭 I’m currently working on  web project -->
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on update soon
+<!-- - 👯 I’m looking to collaborate on update soon -->
 
-- 👨‍💻 All of my projects are available at [https://rahul7f.github.io/Rahul/](https://rahul7f.github.io/Rahul/)
+- 👨‍💻 All of my projects are available at [ rsin.me](https://rsin.me/)
 
-- 📝 I write articles on [https://medium.com/@rahul7f](https://medium.com/@rahul7f)
+<!-- - 📝 I write articles on [https://medium.com/@rahul7f](https://medium.com/@rahul7f) -->
 
 - 💬 Ask me about **Android Development**
 
