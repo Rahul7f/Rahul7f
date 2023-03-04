@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on  web project -->
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **flutter**
 
 <!-- - 👯 I’m looking to collaborate on update soon -->
 
@@ -17,7 +17,7 @@
 
 <!-- - 📝 I write articles on [https://medium.com/@rahul7f](https://medium.com/@rahul7f) -->
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development and flutter**
 
 - 📫 How to reach me **rahu.singhl54321@gmail.com**
 
