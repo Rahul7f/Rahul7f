@@ -9,11 +9,11 @@
 
 <!-- - 🔭 I’m currently working on  web project -->
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **AI/ML**
 
 <!-- - 👯 I’m looking to collaborate on update soon -->
 
-- 👨‍💻 All of my projects are available at [ rsin.me](https://rsin.me/)
+- 👨‍💻 All of my projects are available at [ rsin.space](https://rsin.space/)
 
 <!-- - 📝 I write articles on [https://medium.com/@rahul7f](https://medium.com/@rahul7f) -->
 
@@ -21,13 +21,13 @@
 
 - 📫 How to reach me **rahu.singhl54321@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/rahul00/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/rsin/)
 
 - ⚡ Fun fact **I think my code is only works on my machine!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/rahul00/" target="blank"><img
+    <a href="https://www.linkedin.com/in/rsin/" target="blank"><img
             src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
     <a href="https://stackoverflow.com/users/14077964/rahul-singh" target="blank"><img
             src="https://img.icons8.com/color/48/000000/stackoverflow.png" /></a>
